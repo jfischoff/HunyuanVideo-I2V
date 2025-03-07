@@ -8,7 +8,6 @@ import random
 
 import numpy as np
 import torch
-import deepspeed
 import torch.distributed as dist
 from torch.utils.tensorboard import SummaryWriter
 
